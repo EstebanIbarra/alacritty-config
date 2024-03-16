@@ -4,8 +4,8 @@ This is a personal repo containing my configurations for Alacritty, feel free to
 
 ## Requrements
 
-- Alacritty
-- Fira Code
+- [Alacritty](https://alacritty.org/)
+- [FiraCode](https://github.com/tonsky/FiraCode) Font
 
 ## Instructions
 
